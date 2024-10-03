@@ -37,6 +37,7 @@ This is a Spring Boot-based eCommerce backend project, called Demo eShop, which 
     `spring.datasource.url=jdbc:mariadb://localhost:3306/eshops_db`
     `spring.datasource.username=your_username`
     `spring.datasource.password=your_password`
+   
     `##(create, update, create-drop, validate)`
     `spring.jpa.hibernate.ddl-auto=update`
 
