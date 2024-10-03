@@ -39,6 +39,7 @@ This is a Spring Boot-based eCommerce backend project, called Demo eShop, which 
     `spring.datasource.password=your_password`
    
     `##(create, update, create-drop, validate)`
+   
     `spring.jpa.hibernate.ddl-auto=update`
 
 ### Installation
